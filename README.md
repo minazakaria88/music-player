@@ -1,16 +1,37 @@
 # music_player
 
-A new Flutter project.
+ * Music Player App with Flutter * 🎧🎼
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+⚫ Accesses Local Storage: Requests user permission using the permission_handler package to access the local storage 
 
-A few resources to get you started if this is your first Flutter project:
+⚫ Fetches Songs: Efficiently retrieves MP3 files from the device's storage using the on_audio_query package
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⚫ Playback Control: using the just_audio Music Player App with Flutter ** 🎧🎼
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+⚫ Accesses Local Storage: Requests user permission using the permission_handler package to access the local storage 
+
+⚫ Fetches Songs: Efficiently retrieves MP3 files from the device's storage using the on_audio_query package
+
+⚫ Playback Control: using the just_audio package to provide smooth playback, including play, stop, seek  functionality)
+⚫ Navigation : Enables effortless song navigation, allowing users to effortlessly move between tracks (next and previous)
+
+⚫ Architecture: Built with a well-structured MVVM pattern for maintainability and scalability
+
+⚫ Responsive UI: Delivers an optimal viewing experience across various screen sizes and devices
+
+⚫ State Management: using the BLoC pattern for clean and efficient state managementpackage to provide smooth playback, including play, stop, seek  functionality)
+
+https://github.com/minazakaria88/music-player/assets/76627744/fc41079b-3661-4d32-9d9e-818772800f06
+
+
+
+
+⚫ Navigation : Enables effortless song navigation, allowing users to effortlessly move between tracks (next and previous)
+
+⚫ Architecture: Built with a well-structured MVVM pattern for maintainability and scalability
+
+⚫ Responsive UI: Delivers an optimal viewing experience across various screen sizes and devices
+
+⚫ State Management: using the BLoC pattern for clean and efficient state management
